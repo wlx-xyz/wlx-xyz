@@ -22,12 +22,21 @@ jobs:
             card:
               lines:
                 - { type: header, text: "wlx-xyz" }
-                - { type: kv, key: Role, value: "Student" }
-                - { type: kv, key: Focus, value: "IT / Linux" }
-                - { type: kv, key: Interests, value: "Minecraft / Gaming" }
+
+                - { type: kv, key: Role, value: "Beginner" }
+                - { type: kv, key: Focus, value: "Learning & Exploring" }
+                - { type: kv, key: Interests, value: "Minecraft / PC / Gaming" }
+                - { type: kv, key: Learning, value: "GitHub / Coding" }
+
                 - { type: section, title: "GitHub stats" }
+
                 - { type: kv, key: Repositories, value: "{repos}" }
                 - { type: kv, key: Stars, value: "{stars}" }
                 - { type: kv, key: Followers, value: "{followers}" }
                 - { type: kv, key: Contributions, value: "{contributions}" }
                 - { type: kv, key: Languages, value: "{topLanguages}" }
+
+                - { type: section, title: "Contact" }
+
+                - { type: kv, key: GitHub, value: "github.com/wlx-xyz" }
+                - { type: kv, key: Telegram, value: "@gibb69" }
