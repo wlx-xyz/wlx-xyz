@@ -4,21 +4,26 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     width="70"
+    alt="HTML5"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
     width="70"
+    alt="CSS3"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     width="70"
+    alt="JavaScript"
   />
   <img
-    src="./assets/python.svg"
+    src="https://raw.githubusercontent.com/wlx-xyz/wlx-xyz/main/assets/python.svg"
     width="70"
+    alt="Python"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
     width="70"
+    alt="C++"
   />
 </p>
