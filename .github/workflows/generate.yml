@@ -21,7 +21,7 @@ jobs:
           config: |
             card:
               lines:
-                - { type: header, text: "wlx-xyz" }
+                - { type: header, text: "x0c5" }
 
                 - { type: kv, key: Role, value: "Beginner" }
                 - { type: kv, key: Focus, value: "Learning & Exploring" }
@@ -38,5 +38,5 @@ jobs:
 
                 - { type: section, title: "Contact" }
 
-                - { type: kv, key: GitHub, value: "github.com/wlx-xyz" }
+                - { type: kv, key: GitHub, value: "github.com/x0c5" }
                 - { type: kv, key: Telegram, value: "@gibb69" }
